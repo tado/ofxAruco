@@ -3,3 +3,11 @@ example/bin/example*
 example/obj
 example/bin/libs
 example/*.creator*
+example/.vs/example/v16/.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.dll
+*.filters
+*.user

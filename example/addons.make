@@ -1,4 +1,4 @@
 ofxAruco
-ofxCv
 ofxOpenCv
+ofxCv
 ofxPoco
